@@ -62,7 +62,7 @@ Latest Oracle Java 7 JDK (plus DCEVM variant):
 
 Example:
 
-    docker run -it --rm anapsix/alpine-java java -version
+    docker run -it --rm spotx/alpine-java java -version
 
 
 ### Disclaimer
